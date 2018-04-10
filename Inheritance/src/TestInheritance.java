@@ -24,7 +24,6 @@ public class TestInheritance
 		c.setType("Siamese");
 		String typeC = c.getType();
 		 System.out.println(typeC);
-		c.meow();
-		
+		c.meow();	
 	}
 }

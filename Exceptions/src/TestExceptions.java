@@ -3,7 +3,7 @@ public class TestExceptions
 {
 	public static void main(String[] args)
 	{
-		int i = 1; // try with 2, 3, 4
+		int i = 3; // try with 2, 3, 4
 		int j = 0;
 		try
 		{
